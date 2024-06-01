@@ -1,4 +1,5 @@
-THis is the first line.
+This is the first line.
 This is the second line.
+This is an added line in the feature branch.
 This is the third line.
 This is the fourth line.
